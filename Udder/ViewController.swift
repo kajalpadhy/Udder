@@ -23,7 +23,9 @@ func notnnot()
 {
     
     }
-    
+    override func viewDidLayoutSubviews() {
+        //gyjhkl
+    }
 
 }
 
